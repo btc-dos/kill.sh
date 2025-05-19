@@ -28,5 +28,5 @@ pip install -r requirements.txt
 python3 kill.py -h
 ```
 
-![Version](https://img.shields.io/badge/version-2025.01--R-purple?style=flat-square)
+               ![Version](https://img.shields.io/badge/version-2025.01--R-purple?style=flat-square)
 ![kill.sh banner](bannerz.png)
